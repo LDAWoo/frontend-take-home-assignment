@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-background: #334155;
+  --primary-foreground: #ffffff;
+  --secondary-background: #f8fafc;
+  --secondary-foreground: #334155;
+  --high-foreground: #64748b;
+  --border: #e2e8f0;
+  --font-inter: 'Inter';
+}
